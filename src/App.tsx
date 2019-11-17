@@ -29,16 +29,30 @@ class App extends Component<props> {
       <div>
         <div className="headerContainer">
           <span className="headerLogo">
-            <img src={Logo} alt="logo" id="logo" onClick={this.naviClick} data-id="about" />
+            <img
+              src={Logo}
+              alt="logo"
+              id="logo"
+              onClick={this.naviClick}
+              data-id="about"
+            />
           </span>
           <div className="navigation">
             <span className="naviItem" onClick={this.naviClick} data-id="about">
               About
             </span>
-            <span className="naviItem" onClick={this.naviClick} data-id="gallery">
+            <span
+              className="naviItem"
+              onClick={this.naviClick}
+              data-id="gallery"
+            >
               Gallery
             </span>
-            <span className="naviItem" onClick={this.naviClick} data-id="projects">
+            <span
+              className="naviItem"
+              onClick={this.naviClick}
+              data-id="projects"
+            >
               Projects
             </span>
           </div>

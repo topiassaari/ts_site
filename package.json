@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "ts_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,10 +16,12 @@
     "typescript": "^3.6.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+      "start": "PORT=3001 react-scripts start",
+      "start:production": "npm run build && npm run start:prod",
+      "start:prod": "NODE_ENV=production node server",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
