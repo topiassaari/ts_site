@@ -29,6 +29,23 @@ class Projects extends React.Component {
           </a>
           <a href="https://hayleygrant.com/project/04fc8976/Shelf">Shelf</a>
 
+          <b>Photography</b>
+          <span>
+            <a href="https://www.nbforum.com/past-events/nordic-business-forum-2016/">
+              Nordic Business Forum (2014-2016)
+            </a>
+            - with Studio Kraft
+          </span>
+          <a href="https://uskallayrittaa.fi/suomen-parhaat-nuoret-yrittajat-palkittiin-uskalla-yrittaa-finaalissa-etela-pohjanmaalle-kaksoisvoitto/">
+            NY Uskalla yrittää - finaali (2015)
+          </a>
+          <a href="https://www.soundi.fi/jutut/nuoret-ja-raikkaat-for-tomorrow/">
+            Nuoret ja raikkaat: For Tomorrow
+          </a>
+          <a href="https://www.fullsteam.fi/fi/artistit/entas-peltonen">
+            Fullsteam Agency: Entäs Peltonen?
+          </a>
+
           <b>Videos</b>
           <a href="https://youtu.be/Lc1hmKSKrv4">
             Rinse & Repeat - Riton ft. Kah-Lo | Nelli Karmila Choreography
