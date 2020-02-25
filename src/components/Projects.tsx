@@ -6,7 +6,11 @@ class Projects extends React.Component {
     return (
       <article>
         <section className="links">
-          <b>Web</b>
+        <b>Current</b>
+	<ul>
+		<li><span><a href="https://www.idean.com/work/abb-humanizing-technology-with-design">ABB CommonUX Design System</a> - as a junior web developer</span></li>
+	</ul>  
+	<b>Web</b>
 	<ul>
         	 <li><a href="http://ding-me.com/">Ding</a></li>
         	 <li><a href="https://topiassaari.github.io/dots/">Dots</a></li>
