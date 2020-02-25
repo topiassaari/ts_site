@@ -29,7 +29,7 @@ class About extends React.Component {
             clients include Nordic Business Forum and LOGY Ry.
             <br />
             <br />
-            As a passion project learning to draw and make pretty pictures.
+            Doing things for fun
             <a href="https://www.instagram.com/topias/">@topias</a> on
             instagram.
           </p>
