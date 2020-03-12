@@ -8,7 +8,7 @@ class Projects extends React.Component {
         <section className="links">
         <b>Current</b>
 	<ul>
-		<li><span><a href="https://www.idean.com/work/abb-humanizing-technology-with-design">ABB CommonUX Design System</a> - as a junior web developer</span></li>
+		<li><span><a href="https://www.idean.com/work/abb-humanizing-technology-with-design">ABB CommonUX Design System (article by Idean)</a> - as a junior web developer for ABB</span></li>
 	</ul>  
 	<b>Web</b>
 	<ul>
