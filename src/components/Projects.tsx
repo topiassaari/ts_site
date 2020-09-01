@@ -34,8 +34,7 @@ class Projects extends React.Component {
           <b>Games</b>
           <ul>
             <li>
-              <a href="https://www.woodwardfoliporto.nl/game-design/portable-escape-room-2018">
-                {" "}
+              <a href="https://youtu.be/8hBD8ywxK8Q">
                 Protocol: Bird Cage
               </a>
             </li>
