@@ -4,10 +4,9 @@
   status = 200
 
 
-[[plugins]]
-package = "netlify-plugin-a11y"
-
-  [plugins.inputs]
+# [[plugins]]
+# package = "netlify-plugin-a11y"
+# [plugins.inputs]
   
-  checkPaths = ['/index.html']
+# checkPaths = ['/index.html']
   
