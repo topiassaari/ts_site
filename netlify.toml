@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "/public/index.html"
+  to = "/index.html"
   status = 200
 
 
@@ -9,10 +9,5 @@ package = "netlify-plugin-a11y"
 
   [plugins.inputs]
   
-  checkPaths = [
-    '/public/index.html',
-    '/src/components/About.tsx',
-    '/src/components/Gallery.tsx',
-    '/src/components/Project.tsx',
-  ]
+  checkPaths = ['/index.html']
   
