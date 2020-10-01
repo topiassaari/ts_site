@@ -26,6 +26,9 @@ class Projects extends React.Component {
               <a href="https://topiassaari.github.io/dots/">Dots</a>
             </li>
             <li>
+              <a href="https://herneviha.github.io/">Herneviha</a>
+            </li>
+            <li>
               <a href="https://topiassaari.github.io/is_it_seven/">
                 Is it seven?
               </a>
@@ -34,9 +37,7 @@ class Projects extends React.Component {
           <b>Games</b>
           <ul>
             <li>
-              <a href="https://youtu.be/8hBD8ywxK8Q">
-                Protocol: Bird Cage
-              </a>
+              <a href="https://youtu.be/8hBD8ywxK8Q">Protocol: Bird Cage</a>
             </li>
             <li>
               <a href="https://www.youtube.com/watch?v=BqmUf1abX8E&feature=emb_title">
