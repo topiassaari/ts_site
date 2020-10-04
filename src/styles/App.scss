@@ -40,8 +40,7 @@ img {
 
 /* Body */
 body {
-  height: 100%;
-  overflow: hidden;
+  height: 100vh;
 }
 
 .headerContainer {
@@ -60,6 +59,9 @@ body {
   line-height: 30px;
   color: grey;
   cursor: default;
+  &:hover {
+    cursor: pointer;
+  }
 }
 
 .headerLogo {
@@ -95,7 +97,7 @@ article {
   display: flex;
   flex-direction: row;
   justify-content: center;
-    margin-bottom: 200px;
+  margin-bottom: 200px;
 }
 
 // PROJECTS
@@ -104,33 +106,31 @@ article {
   display: flex;
   flex-direction: column;
 
-
   a {
     margin-bottom: 16px;
   }
 }
 
 // GALLERY
-  .galleryRow {
-    justify-content: center;
-    display: flex;
-    flex-wrap: wrap;
-    .galleryImg {
-      max-width: 300px;
-      margin: 8px;
-    }
+.galleryRow {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  .galleryImg {
+    max-width: 300px;
+    margin: 8px;
   }
+}
 
 // ABOUT
-  .aboutText {
-    width: 300px;
-  }
-  #face {
-    width: 300px;
-    height: 300px;
-    margin-bottom: 30px;
-  }
-
+.aboutText {
+  width: 300px;
+}
+#face {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 30px;
+}
 
 .row {
   display: flex;
@@ -150,7 +150,6 @@ article {
   vertical-align: middle;
   width: 100%;
 }
-
 
 @media screen and (max-width: 800px) {
   .column {
