@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/App.scss";
-import Naama from "../assets/ts_naama2.jpeg";
+import Naama from "../assets/naama_crop.png";
 
 class About extends React.Component {
   render() {
@@ -31,7 +31,7 @@ class About extends React.Component {
             clients include Nordic Business Forum and LOGY Ry.
             <br />
             <br />
-            Doing things for fun 
+            Doing things for fun
             <a href="https://www.instagram.com/topias/">@topias</a> on
             instagram.
           </p>
