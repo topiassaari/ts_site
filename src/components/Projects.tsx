@@ -13,8 +13,16 @@ class Projects extends React.Component {
                 <a href="https://www.idean.com/work/abb-humanizing-technology-with-design">
                   ABB CommonUX Design System (article by Idean)
                 </a>{" "}
-                - as a junior web developer for ABB
+                - as a web developer for ABB
               </span>
+            </li>
+          </ul>
+          <ul>
+            <b>Thesis</b>
+            <li>
+              <a href="https://www.theseus.fi/handle/10024/227894">
+                Creating a Design Token Library for ABB’s CommonUX Design System
+              </a>
             </li>
           </ul>
           <b>Web</b>

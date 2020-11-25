@@ -14,24 +14,6 @@ class About extends React.Component {
             engineering. Also working on a design system at ABB as a web
             developer.
             <br />
-            <br />
-            Packed and shipped frequency converters at a warehouse for a few
-            years, then got a BBA from Haaga-Helia University of Applied
-            Sciences with a focus on user centered design. Spent half a year in
-            an exchange programme at Hanze in Groningen, Netherlands learning
-            how to make video-games. Wrote a
-            <a href="https://www.theseus.fi/handle/10024/227894">
-              {" "}
-              thesis on design tokens.
-            </a>
-            <br />
-            <br />
-            Formerly a part of Studio Kraft - a professional photo-team for
-            business events and private occasions such as graduations. Former
-            clients include Nordic Business Forum and LOGY Ry.
-            <br />
-            <br />
-            Doing things for fun 
             <a href="https://www.instagram.com/topias/">@topias</a> on
             instagram.
           </p>
