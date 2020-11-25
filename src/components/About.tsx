@@ -14,6 +14,7 @@ class About extends React.Component {
             engineering. Also working on a design system at ABB as a web
             developer.
             <br />
+            <br />
             <a href="https://www.instagram.com/topias/">@topias</a> on
             instagram.
           </p>
