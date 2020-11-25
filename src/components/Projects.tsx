@@ -17,8 +17,8 @@ class Projects extends React.Component {
               </span>
             </li>
           </ul>
+          <b>Thesis</b>
           <ul>
-            <b>Thesis</b>
             <li>
               <a href="https://www.theseus.fi/handle/10024/227894">
                 Creating a Design Token Library for ABB’s CommonUX Design System
