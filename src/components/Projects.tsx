@@ -53,7 +53,7 @@ class Projects extends React.Component {
               </a>
             </li>
           </ul>
-          <b>Haaga-Helia UX-projects</b>
+          {/* <b>Haaga-Helia UX-projects</b>
           <ul>
             <li>
               <a href="https://hayleygrant.com/project/04d3af27/Planty">
@@ -68,7 +68,7 @@ class Projects extends React.Component {
             <li>
               <a href="https://hayleygrant.com/project/04fc8976/Shelf">Shelf</a>
             </li>
-          </ul>
+          </ul> */}
           <b>Photography</b>
           <ul>
             <li>
