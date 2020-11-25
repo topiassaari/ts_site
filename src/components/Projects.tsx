@@ -84,11 +84,11 @@ class Projects extends React.Component {
                 NY Uskalla yrittää - finaali (2015)
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="https://www.soundi.fi/jutut/nuoret-ja-raikkaat-for-tomorrow/">
                 Nuoret ja raikkaat: For Tomorrow
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="https://www.fullsteam.fi/fi/artistit/entas-peltonen">
                 Fullsteam Agency: Entäs Peltonen?
