@@ -1,8 +1,8 @@
 /* Minimal CSS Reset, source: https://alligator.io/css/minimal-css-reset/ */
 html {
   box-sizing: border-box;
-  font-size: 14px;
-  font-family: helvetica;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
   overflow: scroll;
   min-width: 300px;
 }
@@ -38,76 +38,80 @@ img {
   height: auto;
 }
 
-/* Body */
-body {
-  height: 100vh;
+.contentContainer {
+  display: flex;
+  justify-content: center;
+  padding: 32px 0;
 }
 
+article {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: max-content;
+  height: max-content;
+}
+
+//HEADER
 .headerContainer {
   display: flex;
   justify-content: space-between;
-  height: auto;
+  align-items: center;
+
+  .headerLogo {
+    padding: 8px;
+    & > #logo {
+      width: 50px;
+    }
+  }
 }
 .navigation {
-  display: flex;
   padding-right: 16px;
 }
 .naviItem {
   padding: 8px;
   margin-left: 16px;
-  line-height: 30px;
+  font-size: 14px;
   color: grey;
   cursor: default;
   &:hover {
     cursor: pointer;
+    color: black;
   }
-}
-
-.headerLogo {
-  padding: 8px;
-}
-
-.naviItem:hover {
-  color: black;
-}
-
-#logo {
-  width: 50px;
-}
-
-a {
-  color: #808080;
-  cursor: pointer;
-  text-decoration-line: none;
-}
-
-a:hover {
-  color: black;
-}
-
-b {
-  margin: 35px 16px 16px 0px;
-}
-
-span {
-  margin-bottom: 16px;
-}
-article {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-bottom: 200px;
 }
 
 // PROJECTS
 .links {
   width: 300px;
-  display: flex;
-  flex-direction: column;
 
   a {
     margin-bottom: 16px;
+    cursor: pointer;
+    text-decoration-line: underline;
   }
+  & > ul > div {
+    margin-bottom: 32px;
+
+    & > li {
+      margin-bottom: 12px;
+      & > b {
+        font-size: 14px;
+        margin-bottom: 16px;
+      }
+    }
+  }
+}
+// ABOUT
+.aboutText {
+  width: 300px;
+  & > p {
+    text-align: justify;
+  }
+}
+#face {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 30px;
 }
 
 // GALLERY
@@ -119,16 +123,6 @@ article {
     max-width: 300px;
     margin: 8px;
   }
-}
-
-// ABOUT
-.aboutText {
-  width: 300px;
-}
-#face {
-  width: 300px;
-  height: 300px;
-  margin-bottom: 30px;
 }
 
 .row {

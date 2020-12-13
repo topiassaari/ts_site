@@ -4,29 +4,22 @@ import "../styles/App.scss";
 class Projects extends React.Component {
   render() {
     return (
-      <article>
-        <section className="links">
-          <b>Current</b>
-          <ul>
+      <article className="links">
+        <ul>
+          <div>
             <li>
-              <span>
-                <a href="https://www.idean.com/work/abb-humanizing-technology-with-design">
-                  ABB CommonUX Design System (article by Idean)
-                </a>{" "}
-                - as a web developer for ABB
-              </span>
+              <b>Current</b>
             </li>
-          </ul>
-          <b>Thesis</b>
-          <ul>
             <li>
-              <a href="https://www.theseus.fi/handle/10024/227894">
-                Creating a Design Token Library for ABB’s CommonUX Design System
+              <a href="https://www.idean.com/work/abb-humanizing-technology-with-design">
+                ABB CommonUX Design System (article by Idean)
               </a>
             </li>
-          </ul>
-          <b>Web</b>
-          <ul>
+          </div>
+          <div>
+            <li>
+              <b>Web</b>
+            </li>
             <li>
               <a href="http://ding-me.com/">Ding</a>
             </li>
@@ -41,9 +34,11 @@ class Projects extends React.Component {
                 Is it seven?
               </a>
             </li>
-          </ul>
-          <b>Games</b>
-          <ul>
+          </div>
+          <div>
+            <li>
+              <b>Games</b>
+            </li>
             <li>
               <a href="https://youtu.be/8hBD8ywxK8Q">Protocol: Bird Cage</a>
             </li>
@@ -52,25 +47,29 @@ class Projects extends React.Component {
                 The Left Hand
               </a>
             </li>
-          </ul>
-          {/* <b>Haaga-Helia UX-projects</b>
-          <ul>
+          </div>
+          {/* <div>
+              <b>Haaga-Helia UX-projects</b>
+              <li>
+                <a href="https://hayleygrant.com/project/04d3af27/Planty">
+                  Planty
+                </a>
+              </li>
+              <li>
+                <a href="https://hayleygrant.com/project/04666e62/From-Foreign--to-Familiar">
+                  From Foreign to Familiar
+                </a>
+              </li>
+              <li>
+                <a href="https://hayleygrant.com/project/04fc8976/Shelf">
+                  Shelf
+                </a>
+              </li>
+            </div> */}
+          <div>
             <li>
-              <a href="https://hayleygrant.com/project/04d3af27/Planty">
-                Planty
-              </a>
+              <b>Photography</b>
             </li>
-            <li>
-              <a href="https://hayleygrant.com/project/04666e62/From-Foreign--to-Familiar">
-                From Foreign to Familiar
-              </a>
-            </li>
-            <li>
-              <a href="https://hayleygrant.com/project/04fc8976/Shelf">Shelf</a>
-            </li>
-          </ul> */}
-          <b>Photography</b>
-          <ul>
             <li>
               <span>
                 <a href="https://www.nbforum.com/past-events/nordic-business-forum-2016/">
@@ -85,18 +84,20 @@ class Projects extends React.Component {
               </a>
             </li>
             {/* <li>
-              <a href="https://www.soundi.fi/jutut/nuoret-ja-raikkaat-for-tomorrow/">
-                Nuoret ja raikkaat: For Tomorrow
-              </a>
-            </li> */}
+                <a href="https://www.soundi.fi/jutut/nuoret-ja-raikkaat-for-tomorrow/">
+                  Nuoret ja raikkaat: For Tomorrow
+                </a>
+              </li> */}
             <li>
               <a href="https://www.fullsteam.fi/fi/artistit/entas-peltonen">
                 Fullsteam Agency: Entäs Peltonen?
               </a>
             </li>
-          </ul>
-          <b>Videos</b>
-          <ul>
+          </div>
+          <div>
+            <li>
+              <b>Videos</b>
+            </li>
             <li>
               <a href="https://youtu.be/Lc1hmKSKrv4">
                 Rinse &amp; Repeat - Riton ft. Kah-Lo | Nelli Karmila
@@ -142,8 +143,8 @@ class Projects extends React.Component {
                 - As a grip assistant / runner
               </span>
             </li>
-          </ul>
-        </section>
+          </div>
+        </ul>
       </article>
     );
   }
