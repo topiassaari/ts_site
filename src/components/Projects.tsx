@@ -15,6 +15,11 @@ class Projects extends React.Component {
                 ABB CommonUX Design System (article by Idean)
               </a>
             </li>
+            <li>
+              <a href="https://www.theseus.fi/handle/10024/227894">
+                Creating a Design Token Library for ABB’s CommonUX Design System
+              </a>
+            </li>
           </div>
           <div>
             <li>
@@ -48,24 +53,6 @@ class Projects extends React.Component {
               </a>
             </li>
           </div>
-          {/* <div>
-              <b>Haaga-Helia UX-projects</b>
-              <li>
-                <a href="https://hayleygrant.com/project/04d3af27/Planty">
-                  Planty
-                </a>
-              </li>
-              <li>
-                <a href="https://hayleygrant.com/project/04666e62/From-Foreign--to-Familiar">
-                  From Foreign to Familiar
-                </a>
-              </li>
-              <li>
-                <a href="https://hayleygrant.com/project/04fc8976/Shelf">
-                  Shelf
-                </a>
-              </li>
-            </div> */}
           <div>
             <li>
               <b>Photography</b>
@@ -83,11 +70,6 @@ class Projects extends React.Component {
                 NY Uskalla yrittää - finaali (2015)
               </a>
             </li>
-            {/* <li>
-                <a href="https://www.soundi.fi/jutut/nuoret-ja-raikkaat-for-tomorrow/">
-                  Nuoret ja raikkaat: For Tomorrow
-                </a>
-              </li> */}
             <li>
               <a href="https://www.fullsteam.fi/fi/artistit/entas-peltonen">
                 Fullsteam Agency: Entäs Peltonen?
