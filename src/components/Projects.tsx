@@ -26,18 +26,23 @@ class Projects extends React.Component {
               <b>Web</b>
             </li>
             <li>
-              <a href="http://ding-me.com/">Ding</a>
-            </li>
-            <li>
-              <a href="https://topiassaari.github.io/dots/">Dots</a>
-            </li>
-            <li>
               <a href="https://herneviha.github.io/">Herneviha</a>
             </li>
+            <li>
+              <a href="https://topiassaari.github.io/co2-calc/">
+                CO2 Calculator POC
+              </a>
+            </li>
+            {/* <li>
+              <a href="http://ding-me.com/">Ding</a>
+            </li> */}
             <li>
               <a href="https://topiassaari.github.io/is_it_seven/">
                 Is it seven?
               </a>
+            </li>
+            <li>
+              <a href="https://topiassaari.github.io/dots/">Dots</a>
             </li>
           </div>
           <div>
