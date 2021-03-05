@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/App.scss";
-import Naama from "../assets/naama_crop.png";
+import Naama from "../assets/ts_naama.jpeg";
 
 class About extends React.Component {
   render() {
