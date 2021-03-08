@@ -50,7 +50,9 @@ class Projects extends React.Component {
               <b>Games</b>
             </li>
             <li>
-              <a href="https://youtu.be/8hBD8ywxK8Q">Protocol: Bird Cage</a>
+              <a href="https://www.youtube.com/watch?v=8hBD8ywxK8Q">
+                Protocol: Bird Cage
+              </a>
             </li>
             <li>
               <a href="https://www.youtube.com/watch?v=BqmUf1abX8E&feature=emb_title">
@@ -86,44 +88,44 @@ class Projects extends React.Component {
               <b>Videos</b>
             </li>
             <li>
-              <a href="https://youtu.be/Lc1hmKSKrv4">
-                Rinse &amp; Repeat - Riton ft. Kah-Lo | Nelli Karmila
-                Choreography
-              </a>
-            </li>
-            <li>
-              <a href="https://youtu.be/JepI20GtaL8">
-                Entäs Peltonen? - Nurkkapöytä (Virallinen musiikkivideo)
-              </a>
-            </li>
-            <li>
-              <a href="https://youtu.be/ZzYLEzxPkQA">BAK - 3+4=6</a>
-            </li>
-            <li>
-              <a href="https://youtu.be/fJXt_spPHsY">
-                Michael Shié - Kelloo / Niimonii
-              </a>
-            </li>
-            <li>
-              <a href="https://youtu.be/eitaG4bi-RU">
-                Lauantai - Olkkarin sohvalta etelään (musiikkivideo)
-              </a>
-            </li>
-
-            <li>
               <a href="https://www.youtube.com/watch?v=nh9P5Kfq0ng">
                 Games 2017: ValoClimb® – Interactive game platform for climbing
                 walls | Valo Motion
               </a>
             </li>
             <li>
-              <a href="https://youtu.be/8phbX6HgFEY">
+              <a href="https://www.youtube.com/watch?v=8phbX6HgFEY">
                 Pikseli Arcade - Koe mitä haluat
               </a>
             </li>
             <li>
+              <a href="https://www.youtube.com/watch?v=bTDVoPMe3zI">
+                Yeah right - Vince Staples, Freestyle | Nelli Karmila
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=JepI20GtaL8">
+                Entäs Peltonen? - Nurkkapöytä (Virallinen musiikkivideo)
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=ZzYLEzxPkQA">
+                BAK - 3+4=6
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=fJXt_spPHsY">
+                Michael Shié - Kelloo / Niimonii
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/watch?v=eitaG4bi-RU">
+                Lauantai - Olkkarin sohvalta etelään (musiikkivideo)
+              </a>
+            </li>
+            <li>
               <span>
-                <a href="https://youtu.be/rVZzQGRTT7c">
+                <a href="https://www.youtube.com/watch?v=rVZzQGRTT7c">
                   Poets of the Fall - Moonlight Kissed (Official 4K Video w/
                   Lyrics)
                 </a>
