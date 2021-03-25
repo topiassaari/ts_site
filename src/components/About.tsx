@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/App.scss";
-import Naama from "../assets/ts_naama.jpeg";
+import Naama from "../assets/naama_crop.png";
 
 class About extends React.Component {
   render() {
@@ -11,7 +11,7 @@ class About extends React.Component {
           <p>
             Located in Helsinki, Finland. Currently studying for a masters
             degree in software and service engineering at Aalto University. Also
-            working on a design system as a web developer at ABB.
+            working on a design system as a front-end web developer at ABB.
             <br />
             <br />
             <a href="https://www.instagram.com/topias/">@topias</a> on instagram
