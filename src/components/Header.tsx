@@ -49,7 +49,6 @@ class Header extends Component<props> {
     );
   }
   public naviClick(e: any) {
-    console.log(e.target);
     this.navigateTo(e.target.getAttribute("data-id"));
   }
 }

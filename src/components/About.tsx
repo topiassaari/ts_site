@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/App.scss";
-import Naama from "../assets/naama_crop.png";
+import Naama from "../assets/ts_2021.jpg";
 
 class About extends React.Component {
   render() {
@@ -10,8 +10,7 @@ class About extends React.Component {
           <img src={Naama} id="face" alt="naama" />
           <p>
             Located in Helsinki, Finland. Currently studying for a masters
-            degree in software and service engineering at Aalto University. Also
-            working on a design system as a front-end web developer at ABB.
+            degree in software and service engineering at Aalto University.
             <br />
             <br />
             <a href="https://www.instagram.com/topias/">@topias</a> on instagram

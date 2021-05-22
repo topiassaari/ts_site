@@ -8,12 +8,7 @@ class Projects extends React.Component {
         <ul>
           <div>
             <li>
-              <b>Current</b>
-            </li>
-            <li>
-              <a href="https://www.idean.com/work/abb-humanizing-technology-with-design">
-                ABB CommonUX Design System (article by Idean)
-              </a>
+              <b>Thesis</b>
             </li>
             <li>
               <a href="https://www.theseus.fi/handle/10024/227894">
@@ -26,23 +21,33 @@ class Projects extends React.Component {
               <b>Web</b>
             </li>
             <li>
+              <span>
+                <a href="https://www.idean.com/work/abb-humanizing-technology-with-design">
+                  ABB CommonUX Design System (article by Idean)
+                </a>{" "}
+                - as a front-end web developer at ABB
+              </span>
+            </li>
+            <li>
+              <a href="https://github.com/topiassaari/bk_reitti_bot">
+                BK reitti bot
+              </a>
+            </li>
+            <li>
               <a href="https://herneviha.github.io/">Herneviha</a>
             </li>
             <li>
-              <a href="https://topiassaari.github.io/co2-calc/">
-                CO2 Calculator POC
-              </a>
+              <span>
+                <a href="https://phonebook-fs-2021-saari.herokuapp.com/">
+                  A simple phonebook application
+                </a>{" "}
+                - for Full Stack Open 2021
+              </span>
             </li>
-            {/* <li>
-              <a href="http://ding-me.com/">Ding</a>
-            </li> */}
             <li>
               <a href="https://topiassaari.github.io/is_it_seven/">
                 Is it seven?
               </a>
-            </li>
-            <li>
-              <a href="https://topiassaari.github.io/dots/">Dots</a>
             </li>
           </div>
           <div>
@@ -68,7 +73,7 @@ class Projects extends React.Component {
               <span>
                 <a href="https://www.nbforum.com/past-events/nordic-business-forum-2016/">
                   Nordic Business Forum (2014-2016)
-                </a>
+                </a>{" "}
                 - with Studio Kraft
               </span>
             </li>
@@ -128,8 +133,8 @@ class Projects extends React.Component {
                 <a href="https://www.youtube.com/watch?v=rVZzQGRTT7c">
                   Poets of the Fall - Moonlight Kissed (Official 4K Video w/
                   Lyrics)
-                </a>
-                - As a grip assistant / runner
+                </a>{" "}
+                - as a grip assistant / runner
               </span>
             </li>
           </div>
