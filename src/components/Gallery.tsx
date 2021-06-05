@@ -73,7 +73,7 @@ class Gallery extends React.Component {
             <img
               className="galleryImg"
               alt="climbing1"
-              src="https://topias.kuvat.fi/kuvat/Matkat/Heinola_280521/DSC_4199-Edit.jpg?img=smaller"
+              src="https://topias.kuvat.fi/kuvat/website%20gallery/DSC_4199-Edit-2.jpg?img=smaller"
             />
             <img
               className="galleryImg"
