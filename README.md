@@ -1,9 +1,9 @@
 topiassaari.com
 
 for build:
-npm run build
-npm run serve
+- npm run build
+- npm run serve
 
 for dev:
-npm run test:e2e
-npm run lint
+- npm run test:e2e
+- npm run lint
