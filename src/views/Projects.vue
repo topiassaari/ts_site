@@ -26,6 +26,11 @@
           </span>
         </li>
         <li>
+          <a href="https://github.com/topiassaari/bk_reitti_bot">
+            BK reitti bot
+          </a>
+        </li>
+        <li>
           <a href="https://herneviha.github.io/">Herneviha</a>
         </li>
         <li>
