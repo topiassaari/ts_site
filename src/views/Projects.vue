@@ -96,6 +96,11 @@
           <b>Videos</b>
         </li>
         <li>
+          <a href="https://www.youtube.com/watch?v=8XJiY7FP0Jg">
+            Stormzy - Popboy Choreography by Nelli Karmila
+          </a>
+        </li>
+        <li>
           <a href="https://www.youtube.com/watch?v=nh9P5Kfq0ng">
             Games 2017: ValoClimb® – Interactive game platform for climbing
             walls | Valo Motion
@@ -104,11 +109,6 @@
         <li>
           <a href="https://www.youtube.com/watch?v=8phbX6HgFEY">
             Pikseli Arcade - Koe mitä haluat
-          </a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/watch?v=bTDVoPMe3zI">
-            Yeah right - Vince Staples, Freestyle | Nelli Karmila
           </a>
         </li>
         <li>
