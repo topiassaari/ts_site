@@ -35,10 +35,9 @@
         </li>
         <li>
           <span>
-            <a href="https://phonebook-fs-2021-saari.herokuapp.com/">
-              A simple phonebook application
+            <a href="http//gallery.topiassaari.com">
+              Gallery of images I've made
             </a>
-            - for Full Stack Open 2021
           </span>
         </li>
         <li>

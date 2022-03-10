@@ -4,7 +4,8 @@
       <img id="face" src="../assets/ts_2021.jpg" alt="naama" />
       <p>
         Located in Helsinki, Finland. Currently studying for a masters degree in
-        software and service engineering at Aalto University.
+        software and service engineering at Aalto University. Working on a
+        thesis about procurement and usability requirements of IT-systems.
         <br />
         <br />
         <a href="https://www.instagram.com/topias/">@topias</a> on instagram and
