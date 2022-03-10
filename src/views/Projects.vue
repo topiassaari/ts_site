@@ -35,7 +35,7 @@
         </li>
         <li>
           <span>
-            <a href="http//gallery.topiassaari.com">
+            <a href="http://gallery.topiassaari.com">
               Gallery of images I've made
             </a>
           </span>
