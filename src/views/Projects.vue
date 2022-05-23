@@ -3,7 +3,7 @@
     <div>
       <h2>Projects</h2>
       <p>
-        The projects on this site mix some of my previous academic, personal and
+        Here you can find a short selection of different academic, personal and
         work projects. If you are here for recruiting purposes, I suggest
         starting from
         <router-link class="naviItem" to="/projects/work">Work</router-link>

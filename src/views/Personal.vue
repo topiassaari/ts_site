@@ -17,16 +17,15 @@
           In early 2022 I got into learning about video synthesisers and
           feedback loops. As a result, here's a
           <a href="https://vw.topiassaari.com/">collection of videos</a>
-          combining those. I update the site as I do more. What you see and hear
-          is a combination of video synthesis, found footage, video mixing,
-          generative and sequenced audio as well as anything else that might be
-          of interest for the day. Honestly if you are interested in me as a
-          potential employee, the chance of this project being targeted for you
-          is fairly low. Well also if you are a friend...the chance of this
-          being for you is still pretty low. If it does happen to be something
-          you enjoy or want to work on, please contact me and we can figure
-          something out together. BE WARNED, A LOT OF FLASHING LIGHTS AND LOUD
-          SOUNDS.
+          combining those. Its a work in progress. What you see and hear is a
+          combination of video synthesis, found footage, video mixing,
+          generative and sequenced audio among other things. Honestly if you are
+          interested in me as a potential employee, the chance of this project
+          being targeted for you is fairly low. Well also if you are a
+          friend...the chance of this being for you is still pretty low. If it
+          does happen to be something you enjoy or want to work on, please
+          contact me and we can figure something out together. BE WARNED, A LOT
+          OF FLASHING LIGHTS AND LOUD SOUNDS.
         </p>
       </div>
       <div>
