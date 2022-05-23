@@ -3,7 +3,9 @@
     <div>
       <h2>Projects</h2>
       <p>
-        If you are here to possibly offer me a job, I suggest starting from
+        The projects on this site mix some of my previous academic, personal and
+        work projects. If you are here for recruiting purposes, I suggest
+        starting from
         <router-link class="naviItem" to="/projects/work">Work</router-link>
         and then making your way down the list. If you are a friend who just
         wants to know what I'm up to on my free time...start from the bottom and
