@@ -5,7 +5,8 @@
       <p>
         Located in Helsinki, Finland. Currently studying for a masters degree in
         software and service engineering at Aalto University. Working on a
-        thesis about procurement and usability requirements of IT-systems.
+        thesis about system usability in the context of public procurement of
+        IT-systems.
         <br />
         <br />
         <a href="https://www.instagram.com/topias/">@topias</a> on instagram and
@@ -16,15 +17,12 @@
 </template>
 
 <style lang="scss" scoped>
-.aboutText {
-  width: 300px;
-  & > p {
-    text-align: justify;
+  .aboutText {
+    width: 300px;
   }
-}
-#face {
-  width: 300px;
-  height: 300px;
-  margin-bottom: 30px;
-}
+  #face {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+  }
 </style>

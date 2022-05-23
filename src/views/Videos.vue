@@ -3,10 +3,9 @@
     <div>
       <h2>Videos</h2>
       <p>
-        I've done videography for all kinds of things over the years. All of
-        them have been more or less DIY with a DSLR+Gimbal setup. These are my
-        favourites. I end up doing this kind of stuff when a friend asks, and
-        its usually a lot of fun.
+        Among the event photography, I've been involved in a handful of video
+        projects. Usually behind the camera. These are a selected few that I
+        really like.
       </p>
 
       <div>
@@ -84,7 +83,7 @@
         <p>
           Music video for Poets of the Fall where for some weird reason I ended
           up being the grip assist / runner. I mostly got everyone coffee, but
-          since the video has over 2m views its pretty funny to add here.
+          since the video has over 2m views, so its pretty funny to add here.
         </p>
       </div>
     </div>
