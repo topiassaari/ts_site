@@ -3,26 +3,30 @@
     <div>
       <h2>Work</h2>
       <p>
-        I've worked as a frontend Javascript developer since 2018, and before
-        that as a part-time event photographer for a couple years. Unfortunately
-        the actual code and photos are behind NDAs. Instead, this is a small
-        sample of projects I've been involved in. If you want to see a full CV
-        or discuss more, you can contact me on
+        Currently working at Kela with the title "IT specialist" which means
+        that I deal with frontend development and UI design. Finished my MSc in
+        2022. I've worked as a frontend Javascript developer since 2018 and
+        before that as a part-time event photographer for a couple years.
+        Unfortunately the actual code and photos are behind NDAs. Instead, this
+        is a small sample of projects I've been involved in. If you want to see
+        the full CV or discuss more, you can contact me on
         <a href="https://www.linkedin.com/in/topiassaari">LinkedIn</a>.
       </p>
       <div>
         <img src="../assets/projects/thesis.png" />
         <h3>
-          System usability and public procurement of IT-systems (masters thesis)
+          Usability evaluation and complexity in the public procurement of IT
+          systems
         </h3>
         <p>
-          This is what I'm currently doing. While studying for my masters
-          degree, I've worked as a teaching assistant for courses related to
-          user-centered design and usability. From there I got a thesis position
-          in the Human Centered Health Informatics-group. The thesis is on
-          system usability in the context of public procurement of IT-systems.
-          Interestingly enough it doesn't have that much to do with health
-          informatics. I'll link it here once its done.
+          I did my
+          <a href=" http://urn.fi/URN:NBN:fi:aalto-202301291689"
+            >masters thesis</a
+          >
+          at Aalto University on this. The thesis focuses mostly on
+          investigating how in theory complexity and usability are/should be
+          covered in the context of public procurement of large and complicated
+          IT systems.
         </p>
       </div>
       <div>

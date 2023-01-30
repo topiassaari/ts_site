@@ -3,10 +3,8 @@
     <div class="aboutText">
       <img id="face" src="../assets/ts_2021.jpg" alt="naama" />
       <p>
-        Located in Helsinki, Finland. Currently studying for a masters degree in
-        software and service engineering at Aalto University. Working on a
-        thesis about system usability in the context of public procurement of
-        IT-systems.
+        Located in Tampere, Finland. I currently work as a frontend developer
+        for Kela and during off-hours on various visual projects.
         <br />
         <br />
         <a href="https://www.instagram.com/topias/">@topias</a> on instagram and
