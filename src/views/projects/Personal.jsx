@@ -25,8 +25,8 @@ function Personal() {
             <p>
               During the pandemic I started messing around with audioreactive
               visuals and since 2021 I&apos;ve been doing gigs as a VJ. This has
-              been, and still is, a fully non-profit endeavour.
-              <a href="https://topias.kuvat.fi/kuvat/vj/">Previous venues</a>
+              been, and still is, a fully non-profit endeavour.{" "}
+              <a href="https://topias.kuvat.fi/kuvat/vj/">Previous venues</a>{" "}
               include; a cellar, a garage and a barn.
             </p>
           </div>
@@ -38,7 +38,7 @@ function Personal() {
               feedback loops. As a result, here&apos;s a{" "}
               <a href="https://topias.kuvat.fi/kuvat/vw/">
                 collection of videos
-              </a>
+              </a>{" "}
               combining those. Its a work in progress. What you see and hear is
               a combination of video synthesis, found footage, video mixing.
               Honestly if you are interested in me as a potential employee, the
