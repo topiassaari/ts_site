@@ -27,7 +27,8 @@ function Dev() {
               <Link to="/projects/personal">Personal</Link>. Its made with the{" "}
               <a href="https://www.mongodb.com/mern-stack">MERN</a>-stack.
               Please note that the whole thing is currently running in Heroku,
-              so there might be some boot-up time.
+              so there might be some boot-up time, or possibly its just down for
+              good.
             </p>
           </div>
           <div>

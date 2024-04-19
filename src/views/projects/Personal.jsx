@@ -20,14 +20,14 @@ function Personal() {
         </div>
         <div className="items">
           <div>
-            <img src="https://topias.kuvat.fi/kuvat/kioski/875782BB-E854-444E-A7EE-328D8FAE133B.heic?img=smaller" />
+            <img src="https://topias.kuvat.fi/kuvat/vj/875782BB-E854-444E-A7EE-328D8FAE133B.heic?img=smaller" />
             <h3>VJ-gigs</h3>
             <p>
               During the pandemic I started messing around with audioreactive
               visuals and since 2021 I&apos;ve been doing gigs as a VJ. This has
-              been, and still is, a fully non-profit endeavour.{" "}
-              <a href="https://kioski.space">Previous venues</a> include; a
-              cellar, a garage and a barn.
+              been, and still is, a fully non-profit endeavour.
+              <a href="https://topias.kuvat.fi/kuvat/vj/">Previous venues</a>
+              include; a cellar, a garage and a barn.
             </p>
           </div>
           <div>
@@ -36,16 +36,17 @@ function Personal() {
             <p>
               In early 2022 I got into learning about video synthesisers and
               feedback loops. As a result, here&apos;s a{" "}
-              <a href="https://vw.topiassaari.com/">collection of videos</a>
+              <a href="https://topias.kuvat.fi/kuvat/vw/">
+                collection of videos
+              </a>
               combining those. Its a work in progress. What you see and hear is
-              a combination of video synthesis, found footage, video mixing,
-              generative and sequenced audio among other things. Honestly if you
-              are interested in me as a potential employee, the chance of this
-              project being targeted for you is fairly low. Well also if you are
-              a friend...the chance of this being for you is still pretty low.
-              If it does happen to be something you enjoy or want to work on,
-              please contact me and we can figure something out together. BE
-              WARNED, A LOT OF FLASHING LIGHTS AND LOUD SOUNDS.
+              a combination of video synthesis, found footage, video mixing.
+              Honestly if you are interested in me as a potential employee, the
+              chance of this project being targeted for you is fairly low. Well
+              also if you are a friend...the chance of this being for you is
+              still pretty low. This is mostly material I use for VJ-sets. If it
+              does happen to be something you enjoy or want to work on, please
+              contact me and we can figure something out together.
             </p>
           </div>
           <div>
@@ -61,7 +62,7 @@ function Personal() {
               fancy, but unfortunately there&apos;s only a handful of copies and
               I don&apos;t have the resources to make more. You can see some of
               the images in this{" "}
-              <a href="http://gallery.topiassaari.com/">gallery</a>.
+              <a href="https://topias.kuvat.fi/kuvat/p/">gallery</a>.
             </p>
           </div>
         </div>
