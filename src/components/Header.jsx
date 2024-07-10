@@ -12,9 +12,6 @@ function Header() {
         <Link className="naviItem" to="/gallery">
           Gallery
         </Link>
-        <Link className="naviItem" to="/projects">
-          Projects
-        </Link>
       </div>
     </nav>
   );

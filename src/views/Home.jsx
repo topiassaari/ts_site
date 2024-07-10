@@ -8,8 +8,8 @@ function Home() {
         <img id="face" src={naama} alt="naama" />
         <h1>Topias Saari</h1>
         <p>
-          Located in Tampere, Finland. I currently work as a frontend developer
-          for Kela and during off-hours on various visual projects.
+          Located in Helsinki. I do UI/UX design and frontend dev by day,
+          various visual work by night.
         </p>
       </div>
     </article>
