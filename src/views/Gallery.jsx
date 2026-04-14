@@ -24,12 +24,6 @@ function Gallery() {
             alt="art1"
             src="https://topias.kuvat.fi/kuvat/website%20gallery/P058.jpg?img=medium"
           />
-
-          <img
-            className="galleryImg"
-            alt="music1"
-            src="https://topias.kuvat.fi/kuvat/website%20gallery/TVS_7621-2-Edit-3.jpg?img=medium"
-          />
         </div>
         <div className="column">
           <img
@@ -52,11 +46,6 @@ function Gallery() {
             alt="art2"
             src="https://topias.kuvat.fi/kuvat/website%20gallery/P158.jpg?img=medium"
           />
-          <img
-            className="galleryImg"
-            alt="music2"
-            src="https://topias.kuvat.fi/kuvat/website%20gallery/TVS_7700-Edit-2.jpg?img=medium"
-          />
         </div>
         <div className="column">
           <img
@@ -78,11 +67,6 @@ function Gallery() {
             className="galleryImg"
             alt="art3"
             src="https://topias.kuvat.fi/kuvat/website%20gallery/P163.jpg?img=medium"
-          />
-          <img
-            className="galleryImg"
-            alt="climbing1"
-            src="https://topias.kuvat.fi/kuvat/website%20gallery/DSC_4199-Edit-2.jpg?img=medium"
           />
         </div>
       </div>
